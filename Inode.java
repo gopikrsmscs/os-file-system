@@ -1,5 +1,7 @@
 import java.util.Date;
-
+/**
+ * Author: Gopikrishna Pavuluri
+ */
 public class Inode {
 
 	public int fileSize;
