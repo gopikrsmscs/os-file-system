@@ -1,7 +1,5 @@
 # os-file-system
 
-# OS File System
-
 OS File System is an open-source Java project aimed at implementing basic file system operations. It provides a simple and easy-to-use interface for creating, formatting, saving, and opening file systems, as well as performing file management tasks like listing, removing, and renaming files. Additionally, it supports functionalities such as putting external files into the system, getting external files from the system, and changing usernames.
 
 ## Features
